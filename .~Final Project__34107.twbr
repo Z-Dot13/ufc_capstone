@@ -16615,7 +16615,7 @@
       <simple-id uuid='{AE6EFBE3-484F-4357-B27D-EB9E1E867E08}' />
     </dashboard>
   </dashboards>
-  <windows source-height='30'>
+  <windows pres-mode='true' source-height='30'>
     <window class='worksheet' name='Nickname'>
       <cards>
         <edge name='left'>
@@ -16713,7 +16713,7 @@
       </cards>
       <simple-id uuid='{F3072D44-2AD9-437E-A745-F05267B86ACD}' />
     </window>
-    <window class='worksheet' name='R Fighter'>
+    <window class='worksheet' maximized='true' name='R Fighter'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -16986,7 +16986,7 @@
       <active id='-1' />
       <simple-id uuid='{83E12737-3B5D-4CEA-851D-389A99FF3B5F}' />
     </window>
-    <window class='worksheet' maximized='true' name='Test1'>
+    <window class='worksheet' name='Test1'>
       <cards>
         <edge name='left'>
           <strip size='160'>
