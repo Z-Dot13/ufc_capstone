@@ -1,4 +1,4 @@
-R_fighter,B_fighter,title_bout,date,weight_class,Winner
+R_fighter,B_fighter,title_bout,fight date,weight_class,Winner
 Adrian Yanez,Gustavo Lopez,False,2021-03-20,Bantamweight,Red
 Trevin Giles,Roman Dolidze,False,2021-03-20,Middleweight,Red
 Tai Tuivasa,Harry Hunsucker,False,2021-03-20,Heavyweight,Red
