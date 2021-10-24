@@ -16181,11 +16181,11 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98444' id='12' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-            <zone h='98444' id='9' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-              <zone h='98444' id='5' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                <zone h='98444' id='3' type-v2='layout-basic' w='98914' x='543' y='778'>
-                  <zone h='98444' id='1' name='B Fighter' w='49457' x='543' y='778'>
+          <zone h='98532' id='12' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+            <zone h='98532' id='9' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+              <zone h='98532' id='5' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                <zone h='98532' id='3' type-v2='layout-basic' w='99108' x='446' y='734'>
+                  <zone h='98532' id='1' name='B Fighter' w='49554' x='446' y='734'>
                     <zone-style>
                       <format attr='border-color' value='#000000' />
                       <format attr='border-style' value='none' />
@@ -16193,7 +16193,7 @@
                       <format attr='margin' value='4' />
                     </zone-style>
                   </zone>
-                  <zone h='98444' id='7' name='B Fighter Opponent' w='49457' x='50000' y='778'>
+                  <zone h='98532' id='7' name='B Fighter Opponent' w='49554' x='50000' y='734'>
                     <zone-style>
                       <format attr='border-color' value='#000000' />
                       <format attr='border-style' value='none' />
@@ -16282,12 +16282,12 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='6' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98444' id='33' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-            <zone h='98444' id='31' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-              <zone h='98444' id='29' type-v2='layout-basic' w='98914' x='543' y='778'>
-                <zone h='98444' id='10' param='horz' type-v2='layout-flow' w='47214' x='543' y='778'>
-                  <zone h='98444' id='8' type-v2='layout-basic' w='47214' x='543' y='778'>
-                    <zone h='55153' id='5' name='Nickname' w='47214' x='543' y='778'>
+          <zone h='98532' id='33' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+            <zone h='98532' id='31' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+              <zone h='98532' id='29' type-v2='layout-basic' w='99108' x='446' y='734'>
+                <zone h='98532' id='10' param='horz' type-v2='layout-flow' w='47306' x='446' y='734'>
+                  <zone h='98532' id='8' type-v2='layout-basic' w='47306' x='446' y='734'>
+                    <zone h='55202' id='5' name='Nickname' w='47306' x='446' y='734'>
                       <zone-style>
                         <format attr='border-color' value='#000000' />
                         <format attr='border-style' value='none' />
@@ -16295,7 +16295,7 @@
                         <format attr='margin' value='4' />
                       </zone-style>
                     </zone>
-                    <zone h='43291' id='11' name='Weightclass' w='47214' x='543' y='55931'>
+                    <zone h='43330' id='11' name='Weightclass' w='47306' x='446' y='55936'>
                       <zone-style>
                         <format attr='border-color' value='#000000' />
                         <format attr='border-style' value='none' />
@@ -16305,7 +16305,7 @@
                     </zone>
                   </zone>
                 </zone>
-                <zone h='98444' id='28' name='Fighter Info' w='51700' x='47757' y='778'>
+                <zone h='98532' id='28' name='Fighter Info' w='51802' x='47752' y='734'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -16374,11 +16374,11 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='14' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98444' id='24' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-            <zone h='98444' id='21' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-              <zone h='98444' id='17' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                <zone h='98444' id='15' type-v2='layout-basic' w='98914' x='543' y='778'>
-                  <zone h='98444' id='13' name='Active Fighter' w='49457' x='543' y='778'>
+          <zone h='98532' id='24' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+            <zone h='98532' id='21' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+              <zone h='98532' id='17' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                <zone h='98532' id='15' type-v2='layout-basic' w='99108' x='446' y='734'>
+                  <zone h='98532' id='13' name='Active Fighter' w='49554' x='446' y='734'>
                     <zone-style>
                       <format attr='border-color' value='#000000' />
                       <format attr='border-style' value='none' />
@@ -16386,7 +16386,7 @@
                       <format attr='margin' value='4' />
                     </zone-style>
                   </zone>
-                  <zone h='98444' id='19' name='Active Fighter Opponent' w='49457' x='50000' y='778'>
+                  <zone h='98532' id='19' name='Active Fighter Opponent' w='49554' x='50000' y='734'>
                     <zone-style>
                       <format attr='border-color' value='#000000' />
                       <format attr='border-style' value='none' />
@@ -16438,16 +16438,16 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98444' id='38' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-            <zone h='98444' id='36' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-              <zone h='98444' id='21' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                <zone h='98444' id='17' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                  <zone h='98444' id='15' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                    <zone h='98444' id='11' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                      <zone h='98444' id='9' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                        <zone h='98444' id='7' param='horz' type-v2='layout-flow' w='98914' x='543' y='778'>
-                          <zone h='98444' id='5' type-v2='layout-basic' w='98914' x='543' y='778'>
-                            <zone h='98444' id='13' name='R Fighter' w='49457' x='543' y='778'>
+          <zone h='98532' id='38' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+            <zone h='98532' id='36' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+              <zone h='98532' id='21' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                <zone h='98532' id='17' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                  <zone h='98532' id='15' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                    <zone h='98532' id='11' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                      <zone h='98532' id='9' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                        <zone h='98532' id='7' param='horz' type-v2='layout-flow' w='99108' x='446' y='734'>
+                          <zone h='98532' id='5' type-v2='layout-basic' w='99108' x='446' y='734'>
+                            <zone h='98532' id='13' name='R Fighter' w='49554' x='446' y='734'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -16455,7 +16455,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='98444' id='34' name='R Fighter Opponent' w='49457' x='50000' y='778'>
+                            <zone h='98532' id='34' name='R Fighter Opponent' w='49554' x='50000' y='734'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -16713,7 +16713,7 @@
       </cards>
       <simple-id uuid='{F3072D44-2AD9-437E-A745-F05267B86ACD}' />
     </window>
-    <window class='worksheet' maximized='true' name='R Fighter'>
+    <window class='worksheet' name='R Fighter'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -16947,7 +16947,7 @@
         <viewpoint name='Nickname' />
         <viewpoint name='Weightclass' />
       </viewpoints>
-      <active id='-1' />
+      <active id='28' />
       <simple-id uuid='{75A0D395-FCF4-4E0C-AFB5-8A947E9A604F}' />
     </window>
     <window class='dashboard' name='Red Corner Comp'>
@@ -16974,7 +16974,7 @@
       <active id='7' />
       <simple-id uuid='{754E9D10-3E37-44E6-A556-DF5BCCF64CE1}' />
     </window>
-    <window class='dashboard' name='Fighter Comp'>
+    <window class='dashboard' maximized='true' name='Fighter Comp'>
       <viewpoints>
         <viewpoint name='Active Fighter'>
           <zoom type='entire-view' />
